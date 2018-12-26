@@ -42,11 +42,11 @@
 		607FACE51AFB9204008FA782 /* SecondPodLib_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondPodLib_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		8602A01D29B1F07758B0276F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8602A01D29B1F07758B0276F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		AC7DD9C3A000FEABEF0415D2 /* Pods-SecondPodLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SecondPodLib_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SecondPodLib_Tests/Pods-SecondPodLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		D20A83A46A8AD17B2B2E231B /* Pods-SecondPodLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SecondPodLib_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SecondPodLib_Tests/Pods-SecondPodLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		E4D473B8DDEF28C1224420A8 /* SecondPodLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SecondPodLib.podspec; path = ../SecondPodLib.podspec; sourceTree = "<group>"; };
-		EFB300F3A329DD72C9D8B23A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E4D473B8DDEF28C1224420A8 /* SecondPodLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SecondPodLib.podspec; path = ../SecondPodLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		EFB300F3A329DD72C9D8B23A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

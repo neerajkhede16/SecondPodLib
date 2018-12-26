@@ -1,0 +1,16 @@
+PODS:
+  - SecondPodLib (0.1.0)
+
+DEPENDENCIES:
+  - SecondPodLib (from `../`)
+
+EXTERNAL SOURCES:
+  SecondPodLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SecondPodLib: 5a1817d4034c0535976b6d2d072d0566ceac83bb
+
+PODFILE CHECKSUM: cdd77057a79876b0da39c0515f14306b21397c02
+
+COCOAPODS: 1.5.3
